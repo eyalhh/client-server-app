@@ -14,3 +14,5 @@ The procedure is very simple:
 A possibal expension for this project:
 Clients may want to send messages privatly, and not to everyone, meaning instead of like a message board, it will be sortof a sms-style app, in which case, the code would need to be changed and configured for that process.
 
+UPDATE: for more flexibily, I also added a protocol.py code - defines the protocol the clients and server use, and constants.py code - a bunch of constants that we export to make our server functional like a disconnect message.
+IF YOU LIKE, DOWNLOAD THE CODE AND TRY IT WITH YOUR FRIEND IN A LAN, IT WONT WORK PUBLICLY OF COURSE BUT IT WILL PROVIDE A SECURE CONNECTION IF YOU ARE ON THE SAME NETWORK.
